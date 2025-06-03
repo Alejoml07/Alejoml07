@@ -32,8 +32,7 @@
 
 ### 📊 GitHub Stats
 
-![Stats Overview](https://raw.githubusercontent.com/Alejoml07/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Alejoml07/github-stats-transparent/output/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejoml07&layout=compact&theme=radical)](https://github.com/Alejoml07)
 
 ---
 
