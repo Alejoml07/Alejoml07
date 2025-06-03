@@ -1,4 +1,3 @@
-[![Alejandro Muñoz](https://github.com/Alejoml07/Alejoml07/blob/main/assets/banner-alejandro.png)](https://github.com/Alejoml07)
 
 # 👋 ¡Hola, soy Alejandro!
 
@@ -18,7 +17,7 @@
 - **Backend**: `.NET Core` · `Entity Framework` · `DDD` · `FluentValidation`
 - **Cloud**: `Azure (Blob, Functions, App Services)` · `AWS (S3, Lambda, Rekognition)`
 - **IA aplicada**: `OpenAI` · `Google Vision` · `OCR avanzado` · `Validaciones biométricas`
-- **Otras habilidades**: `Excel Automation` · `Arquitectura SOLID` · `Clean Code` · `CI/CD`
+- **Otras habilidades**: `Arquitectura SOLID` · `Clean Code` · `CI/CD`
 
 ---
 
