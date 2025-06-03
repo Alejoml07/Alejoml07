@@ -33,6 +33,8 @@
 ### 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejoml07&layout=compact&theme=radical)](https://github.com/Alejoml07)
+[![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejoml07&show=reviews,discussions_started&show_icons=true&theme=radical)](https://github.com/Alejoml07)
+
 
 ---
 
